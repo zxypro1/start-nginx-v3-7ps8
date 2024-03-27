@@ -61,3 +61,5 @@ resources:
         routes:
           - path: /*
             functionName: 'nginx-7ps8'
+
+env: env.yaml
